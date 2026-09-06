@@ -199,43 +199,20 @@ Important columns include:
 
 ## 10. Project Structure
 
-
 bankpulse/
-
-│
-
 ├── README.md
-
-│
-
 ├── schema/
-
-│ └── create_tables.sql
-
-│
-
+│   └── create_tables.sql
 ├── queries/
-
-│ ├── 01_beginner_questions.sql
-
-│ ├── 02_intermediate_questions.sql
-
-│ └── 03_advanced_questions.sql
-
-│
-
+│   ├── 01_beginner_questions.sql
+│   ├── 02_intermediate_questions.sql
+│   └── 03_advanced_questions.sql
 └── screenshots/
-
-├── 01_database_table.png
-
-├── 02_beginner_q1.png
-
-├── 03_intermediate_q7.png
-
-├── 04_advanced_q14.png
-
-└── 05_monthly_view_q20.png
-
+    ├── 01_database_table.png
+    ├── 02_beginner_q1.png
+    ├── 03_intermediate_q7.png
+    ├── 04_advanced_q14.png
+    └── 05_monthly_view_q20.png
 
 
 
