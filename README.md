@@ -182,6 +182,8 @@ This project demonstrates practical knowledge of:
 ```text
 bankpulse/
 │
+├── bankpulse-banner.png
+│
 ├── README.md
 │
 ├── schema/
