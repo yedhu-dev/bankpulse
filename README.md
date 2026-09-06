@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="bankpulse-banner.png" alt="BankPulse Banner" width="100%">
+</p>
+
 # 🏦 BankPulse – Banking Transaction Analysis
 
 ## 📌 Project Overview
