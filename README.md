@@ -199,6 +199,8 @@ Important columns include:
 
 ## 10. Project Structure
 
+
+'''text
 bankpulse/
 ├── README.md
 ├── schema/
@@ -213,6 +215,7 @@ bankpulse/
     ├── 03_intermediate_q7.png
     ├── 04_advanced_q14.png
     └── 05_monthly_view_q20.png
+'''
 
 
 
